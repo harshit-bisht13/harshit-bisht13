@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Harshit 👋
 
-<!--
-**harshit-bisht13/harshit-bisht13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Java Backend Developer  
+🚀 Currently learning Spring Boot and building backend projects
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- MySQL
+- SQL
+- C++
+- Python
+- Git & GitHub
+
+## 🔨 Current Projects
+
+### Expense Tracker API
+Spring Boot REST API for managing personal expenses using
+Spring Data JPA and MySQL.
+
+### Student CRUD API
+CRUD REST API built with Spring Boot and MySQL.
+
+## 📚 Currently Learning
+
+- Spring Boot
+- REST APIs
+- Backend Development
+- DSA
+- SQL
+
+## 🔗 Projects
+
+[GitHub](https://github.com/harshit-bisht13)
